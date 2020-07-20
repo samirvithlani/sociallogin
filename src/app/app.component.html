@@ -1,0 +1,12 @@
+<button (click)="googleLogin()">Sign in with Google</button>
+
+<br><br>
+
+
+<br>
+
+<div *ngIf ="user">
+<img src="{{user.photoUrl}}">
+<h4>{{user.name}}</h4>
+<h4>{{user.email}}</h4>
+</div>

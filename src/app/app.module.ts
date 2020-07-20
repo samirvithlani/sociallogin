@@ -36,7 +36,7 @@ import { AuthServiceConfig, LoginProviderClass } from 'ng4-social-login';
           {
             id: GoogleLoginProvider.PROVIDER_ID,
             provider: new GoogleLoginProvider(
-              '387893520530-j7q4jh97jjt9lb0cabi4gpvuhnjab1il.apps.googleusercontent.com'
+              '957804172312-21akjharehnvleu2h2m3p0re379sqfqb.apps.googleusercontent.com'
             ),
           },
           
